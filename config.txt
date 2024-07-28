@@ -1,0 +1,5 @@
+# Enfermedad, Número de notas, Duración de cada nota, Velocidad, Límite de Fibonacci
+Diabetes,10,0.5,100,10
+Artritis,15,0.25,80,15
+Estrés,12,0.4,90,12
+Depresión,20,0.6,70,20
