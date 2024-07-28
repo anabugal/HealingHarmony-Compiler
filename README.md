@@ -4,6 +4,8 @@ Manual del Usuario para el Uso del Compilador Musical
 Introducción
 El Compilador Musical está diseñado para generar melodías MIDI específicas basadas en enfermedades y patrones matemáticos como la secuencia de Fibonacci. Este manual te guiará paso a paso sobre cómo utilizar el ejecutable del compilador.
 
+Nota: se entiende como un desarrollo evolutivo al que se le agregarán futuras funciones.
+
 Requisitos Previos
 Sistema Operativo: Windows.
 Dependencias: El ejecutable se ha creado para que no necesites instalar Python ni paquetes adicionales.
@@ -54,8 +56,6 @@ Notas Adicionales
 Este programa está diseñado para generar melodías de manera automática según las configuraciones predefinidas en el archivo config.txt.
 Para cambiar las configuraciones, editar el archivo config.txt y volver a ejecutar el programa.
 Este manual proporciona todas las instrucciones necesarias para utilizar el Compilador Musical de manera efectiva.
-
-
 
 
 
